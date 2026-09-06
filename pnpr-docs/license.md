@@ -9,7 +9,7 @@ pnpr is **source-available, not open source**. It is licensed under the
 You may run, modify, and self-host pnpr for any purpose **except** providing a
 product that competes with pnpr (or with a product the licensor provides using
 it). Commercial / non-compete licenses are available from
-[Zoltan Kochan](https://kochan.io).
+[Zoltan Kochan](https://github.com/zkochan).
 
 This is the only part of the [pnpm monorepo](https://github.com/pnpm/pnpm) that
 is not MIT licensed. Contributions to `pnpr/` are accepted under separate terms —
